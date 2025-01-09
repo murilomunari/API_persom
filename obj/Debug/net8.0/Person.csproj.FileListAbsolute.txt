@@ -31,3 +31,4 @@ C:\Users\mu_bi\Desktop\Person\obj\Debug\net8.0\refint\Person.dll
 C:\Users\mu_bi\Desktop\Person\obj\Debug\net8.0\Person.pdb
 C:\Users\mu_bi\Desktop\Person\obj\Debug\net8.0\Person.genruntimeconfig.cache
 C:\Users\mu_bi\Desktop\Person\obj\Debug\net8.0\ref\Person.dll
+c:\Users\mu_bi\Desktop\Person\obj\Debug\net8.0\Person.sourcelink.json
