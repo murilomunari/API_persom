@@ -1,5 +1,4 @@
-Projeto Web API - Minimal API com .NET e EF Core
-Este é um projeto de exemplo de uma Web API construída utilizando .NET Minimal API com suporte a banco de dados SQLite e Entity Framework Core para manipulação de dados e migrações.
+Project APIPerson.
 
 Tecnologias Utilizadas
 C#
@@ -17,7 +16,7 @@ Como Configurar o Projeto
 1. Clone o Repositório
 bash
 Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https:https://github.com/murilomunari/API_person.git
 cd seu-repositorio
 2. Restaure os Pacotes
 Use o comando abaixo para restaurar as dependências do projeto:
