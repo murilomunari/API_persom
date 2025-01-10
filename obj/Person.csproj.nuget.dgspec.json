@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mu_bi\\Desktop\\Person\\Person.csproj": {}
+    "C:\\Users\\mu_bi\\RiderProjects\\API_persom\\Person.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mu_bi\\Desktop\\Person\\Person.csproj": {
+    "C:\\Users\\mu_bi\\RiderProjects\\API_persom\\Person.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mu_bi\\Desktop\\Person\\Person.csproj",
+        "projectUniqueName": "C:\\Users\\mu_bi\\RiderProjects\\API_persom\\Person.csproj",
         "projectName": "Person",
-        "projectPath": "C:\\Users\\mu_bi\\Desktop\\Person\\Person.csproj",
+        "projectPath": "C:\\Users\\mu_bi\\RiderProjects\\API_persom\\Person.csproj",
         "packagesPath": "C:\\Users\\mu_bi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mu_bi\\Desktop\\Person\\obj\\",
+        "outputPath": "C:\\Users\\mu_bi\\RiderProjects\\API_persom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mu_bi\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -4,7 +4,7 @@ namespace Person.Routes
     {
         public static void PersonRoutes(this WebApplication app)
         {
-            app.MapGet("/person", () => "Olá pessoal");
+            app.MapGet("/person", () => new Model.Person("Murilo", "Mu_bissiato@Hotmail.com"));
         }
     }
 }
