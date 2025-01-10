@@ -10,6 +10,11 @@ public class Person
     }
 
     public Guid Id { get; init; }
-    public string Name { get; private set; }
+    public string Name { get; private set; } 
     public string Email { get; set; }
+
+    public void ChangeName(string name)
+    {
+        Name = name;
+    }
 }
